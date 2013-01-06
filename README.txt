@@ -1,0 +1,3 @@
+These are the source files and assets for Realm's of Golden Saga, my January game for the OneGameAMonth challenge.
+
+The game was created with Game Maker: Studio Professional, so it will require this tool to build it...
